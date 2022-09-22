@@ -2,10 +2,6 @@
 
 Mi gitlab :  https://gitlab.com/AlejandraAdalid
 
-### Hi there 👋
-
-Mi gitlab :  https://gitlab.com/AlejandraAdalid
-
 - 🔭 I’m currently working on ofrendavotiva
 - 🌱 I’m currently learning .NET APIs in Redjar 
 <!--
