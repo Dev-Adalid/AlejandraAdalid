@@ -3,7 +3,7 @@
 Mi gitlab :  https://gitlab.com/AlejandraAdalid
 
 - 🔭 I’m currently working on ofrendavotiva
-- 🌱 I’m currently learning .NET APIs in Redjar (presencial)
+- 🌱 I’m currently learning .NET APIs in Redjar (presencial-finalizado)
 - 💻 I’m currently learning launch x Microsoft Training Developer Fullstack (virtual)
 
 <!--
