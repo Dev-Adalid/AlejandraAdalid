@@ -4,7 +4,7 @@ Mi gitlab :  https://gitlab.com/AlejandraAdalid
 
 - 🔭 I’m currently working on ofrendavotiva
 - 🌱 I’m currently learning .NET APIs in Redjar (presencial-finalizado)
-- 💻 I’m currently learning launch x Microsoft Training Developer Fullstack (hackaton)
+- 💻 I’m currently learning launch x Microsoft Training Developer Fullstack (hackathon)
 
 <!--
 **AlejandraAdalid/AlejandraAdalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
